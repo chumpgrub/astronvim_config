@@ -8,4 +8,6 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
   { import = "astrocommunity.editing-support.zen-mode-nvim" },
+  { import = "astrocommunity.pack.typescript" },
+  { import = "astrocommunity.pack.full-dadbod" },
 }
